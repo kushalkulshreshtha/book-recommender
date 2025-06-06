@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-chroma
+langchain-community
+transformers
+gradio
+notebook
+ipywidgets
+kagglehub
+matplotlib
+seaborn
